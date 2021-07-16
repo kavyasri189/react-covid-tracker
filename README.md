@@ -3,5 +3,5 @@ npm install to install all dependencies
 
 
 
-npm run to run the react project
+npm start to run the react project
 
